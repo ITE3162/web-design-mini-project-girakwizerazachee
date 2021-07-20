@@ -1,0 +1,181 @@
+body{
+	text-align: center;
+	background-color: aliceblue;
+	width: 90%;
+
+}
+ul li{
+	display: inline-block;
+	list-style: none;
+	width: 150px;
+	background-color: green;
+	height: 30px;
+	text-align: center;
+	padding: 2px;
+	
+
+
+}
+.footerform{
+	margin-top: 50px;
+	top: 20px;
+}
+ul li a{color: white;
+text-decoration: none;
+font-size: 20px;
+font-weight: bold;
+text-align: center;
+
+
+}
+
+ul li:hover{
+	display: inline-block;
+	list-style: none;
+	width: 150px;
+	background-color: white;
+	height: 30px;
+	text-align: center;
+	
+}
+ul li:hover a{
+	color: green;
+text-decoration: none;
+font-size: 20px;
+font-weight: bold;
+text-align: center;
+
+}
+.container{
+	width: 57%;
+	background-color: transparent;
+	height: 200px;
+}
+table{
+	align:center;
+}
+
+.vidgall{
+	width: 57%;
+	height: 30px;
+	text-align: center;
+	top: 400px;
+	background-color: green;
+
+}
+.vidpics{
+	width: 80%;
+	height: 300px;
+	text-align: center;
+}
+.pics{
+	float: right;
+}
+.vid{
+	
+	margin-left: 150px;
+}
+.footer{
+	float: bottom;
+}
+.footer1{
+	width: 57%;
+	height: 30px;
+	text-align: center;
+	
+	background-color: green;
+}
+.contactform input{
+	width: 350px;
+	height: 40px;
+	padding: 5px;
+	font-size: 14px;
+	text-align: center;
+	border: 0px;
+	border-bottom: 2px solid black;
+	color: black;
+	font-weight: bold;
+	background-color: white;
+	opacity: 50%;
+
+}
+.contactform input[type=submit],input[type=reset]{
+	width: 167px;
+	height: 40px;
+	padding: 4px;
+	font-size: 14px;
+	text-align: center;
+	background-color: green;
+	color: white;
+	opacity:100%;
+	border-bottom: 0px;
+	cursor: pointer;
+}
+.div1{
+	height: 100%;
+	width: 220px;
+	background-color: orange;
+	float: left;
+}
+.div3{
+	height: 100%;
+	width: 220px;
+	background-color: orange;
+	float :right;
+}
+.div2{
+	height: 100%;
+	width: 220px;
+	background-color: orange;
+	float: right;
+	margin-left:19px;
+}
+.footer0{
+	width: 100%;
+	height: 30px;
+	text-align: center;
+	top: 0px;
+	background-color: green;
+}
+.footer2{
+	width: 100%;
+	height: 80px;
+	text-align: center;
+	top: 500px;
+	background-color: orange;
+}
+.search2{
+	width: 100%;
+	height: 140px;
+	text-align: center;
+	top: 500px;
+	background-color: orange;
+}
+.search{
+	width: 100%;
+	height: 30px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.search input{
+	width: 45%;
+	padding: 5px;
+	margin: 5px;
+}
+button{
+	width: 90px;
+	padding: 5px;
+}
+.search3 input{width: 90%;
+	padding: 5px;
+	margin: 5px;}
+	.footer3{
+		height: 320px;
+		background-color: orange;
+	}
+	.list1{
+		height: 350px;
+		width: 57%;
+		
+	}
